@@ -1,4 +1,4 @@
-package brisklog
+package main
 
 import (
 	"brisklog_machine/app/user"
@@ -10,7 +10,7 @@ import (
 
 /**
  * @author: xaohuihui
- * @Path: brisklog/main
+ * @Path: brisklog/service/brisklog_machine/main.go
  * @Description: 项目入口
  * @datetime: 2022/3/16 17:26:10
  * software: GoLand
