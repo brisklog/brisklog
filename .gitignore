@@ -16,3 +16,5 @@
 .idea
 *.log
 settings-*.yaml
+target/
+
